@@ -1,4 +1,4 @@
-Кн6и# wtex-knit-kp-projects
+# wtex-knit-kp-projects
 Тими курсових для групи КНІТ
 
 |Студент|Тема|
